@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet } from "react-native";
-import { TodoType } from "../utils/types";
+import { TodoType } from "../api/models";
 import TodoButton from "./TodoButton";
 
 type TodoComponentType = {
